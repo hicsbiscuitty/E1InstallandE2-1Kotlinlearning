@@ -19,8 +19,7 @@ Jupyter 安装启动成功界面：
 ![jupyter-installed-screenshot](jupyter-installed.png)
 ---
 
-#E2 实验2_1 Kotlin 语言学习 (Date:29/4)
----
+# E2 实验2_1 Kotlin 语言学习 (Date:29/4)
 ###  Kotlin 基础语法学习
 
 学习 Kotlin 基本语法并完成 [Kotlin Koans 官方教程](https://play.kotlinlang.org/koans/overview) 上的内容。
